@@ -4,7 +4,11 @@
 - c
 - java
 - javaScript
-- html
+- html5
 - css
 - xml(ajax)
-- python
+- python简单一点
+- vue前端框架
+- webpack打包工具
+- vuex状态管理
+- vite打包工具

@@ -34,7 +34,7 @@
 
 - **JavaScript**：精通，ES6+、异步、闭包、原型链
 - **HTML5/CSS**：熟练，语义化、Flex、Grid、响应式
-- **Vue**：黑马课程完整学完，组件化、生命周期、指令、路由
+- **Vue**：完整学完，组件化、生命周期、指令、路由
 - **工程化**：Vuex、Vite、Webpack、Ajax、XML
 
 ---

@@ -27,6 +27,7 @@
 大模型链路：LangChain / LangGraph 任务编排、流式输出实现
 知识库：RAG 向量检索、文档问答落地
 开发提效：Claude / Codex 等AI工具辅助编码，MCP/Skill 优化AI开发流程
+tool zod langchain 
 
 ### 多媒体&其他工具
 - 语音能力：百度 ASR 语音转文字、TTS 文本合成语音

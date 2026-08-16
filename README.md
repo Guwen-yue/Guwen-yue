@@ -8,7 +8,7 @@
 
 ## 🛠 技术栈
 ### 前端核心（深耕实战）
-- 基础：HTML5 / CSS3 / Less / JavaScript(ES6+)，精通异步、闭包、原型链，熟练 Flex/Grid 响应式、语义化布局
+- 基础：HTML5 / CSS3（BEM规范） / Less / JavaScript(ES6+)，精通异步、闭包、原型链，熟练 Flex/Grid 响应式、语义化布局
 - 框架：Vue2/3（路由、组件化、生命周期）、React、Angular
 - 类型：TypeScript 类型约束与类型声明
 - 样式工程：Tailwind CSS 原子化样式
@@ -29,8 +29,7 @@
 知识库：RAG 向量检索、文档问答落地
 开发提效：Claude / Codex 等AI工具辅助编码，MCP/Skill 优化AI开发流程
 tool zod langchain 
-autoTokenizer(transform 提供的) worker 设计模式 webgpu 
-webgl redis  next
+autoTokenizer(transform 提供的) worker  redis  next
 
 ### 多媒体&其他工具
 - 语音能力：百度 ASR 语音转文字、TTS 文本合成语音
@@ -42,3 +41,16 @@ webgl redis  next
 
 ## 📫 联系方式
 - 邮箱：2606633761@qq.com
+
+亮点
+ webgpu 失败降级为 webgl：
+ 单例设计模式
+ npm install -D @webgpu/types  缺少依赖报错
+ ??= 空值合并运算符 懒加载和缓存
+   // 给函数为了获取最新状态
+   // 多个文件并发下载时进度回调频繁触发
+   setProgressItems((prev) => [...prev, e.data]);
+   dtype  再web端这样的格式，可以使用的显存更小
+
+待解决的问题
+  onnx runtime 

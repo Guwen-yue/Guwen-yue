@@ -41,6 +41,9 @@
 - 邮箱：2606633761@qq.com
 
 ---
+docker
+
+nignx
 
 
 
@@ -63,5 +66,8 @@ next
    setProgressItems((prev) => [...prev, e.data]);
    dtype  再web端这样的格式，可以使用的显存更小
    流式生成
+
+
+   
 待解决的问题
   onnx runtime 

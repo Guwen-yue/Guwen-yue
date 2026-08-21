@@ -41,22 +41,25 @@
 - 邮箱：2606633761@qq.com
 
 ---
+===========================
 docker
 
 nignx
 
 
-
+==============================
 tool zod langchain 
-autoTokenizer(transform 提供的) worker  redis  
+ worker  redis  
+=============================================
 next
   #root挂载节点（跟渲染模式有关） SPA也是
   SEO： 写title meta 更易被看到 与
   GEO    ai更容易拿来训练
   CSR  客户端渲染   (这个渲染出来的会是空壳html)
   SSR  服务端渲染   -> SSG 实时的服务端   (这个带SEO 的，用use client就是标记页面不会加SEO)
-
-亮点
+==============================
+亮点 
+autoTokenizer(transform 提供的)
  webgpu 失败降级为 webgl：
  单例设计模式
  npm install -D @webgpu/types  缺少依赖报错
@@ -66,7 +69,7 @@ next
    setProgressItems((prev) => [...prev, e.data]);
    dtype  再web端这样的格式，可以使用的显存更小
    流式生成
-
+==========================================
 
    
 待解决的问题

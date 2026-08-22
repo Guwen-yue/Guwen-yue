@@ -52,6 +52,12 @@ tool zod langchain
  worker  redis  
 =============================================
 next
+- Link 用prefetch会预加载组件里面的内容，加上dns就会预解析域名
+- turbopack  打包工具，可以增量计算，已经缓存过的可以不用再次打包
+- react compiler 三个性能优化hook自动用
+- approter
+  - layout  这个是当前文件夹下面的
+  - template 这个嵌套优先级低于layout 且不会持久化数据（layout的child是被tem包住的page）
   #root挂载节点（跟渲染模式有关） SPA也是
   SEO： 写title meta 更易被看到 与
   GEO    ai更容易拿来训练
@@ -73,4 +79,4 @@ autoTokenizer(transform 提供的)
 
    
 待解决的问题
-  onnx runtime 
+  onnx runtime  k8s oss

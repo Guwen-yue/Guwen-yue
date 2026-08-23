@@ -61,7 +61,7 @@ next
   #root挂载节点（跟渲染模式有关） SPA也是
   SEO： 写title meta 更易被看到 与
   GEO    ai更容易拿来训练
-  CSR  客户端渲染   (这个渲染出来的会是空壳html)
+  CSR  客户端渲染   (这个渲染出来的会是空壳html)  只有这个可以带交互的hook
   SSR  服务端渲染   -> SSG 实时的服务端   (这个带SEO 的，用use client就是标记页面不会加SEO)
 ==============================
 亮点 

@@ -76,7 +76,7 @@ autoTokenizer(transform 提供的)
    dtype  再web端这样的格式，可以使用的显存更小
    流式生成
 ==========================================
- attu
+ attu（milvus可视化窗口）
   supabase
 待解决的问题
   onnx runtime  k8s oss tavily orm drizzle

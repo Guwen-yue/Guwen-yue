@@ -74,7 +74,9 @@ autoTokenizer(transform 提供的)
    // 多个文件并发下载时进度回调频繁触发
    setProgressItems((prev) => [...prev, e.data]);
    dtype  再web端这样的格式，可以使用的显存更小
-   流式生成
+   sse 流式生成 （Server sent events
+    这个有时候不用缓存是为了保证实时性，开来cache可能会在有问题时接受旧数据接受的内容就会出问题）
+
 ==========================================
  attu（milvus可视化窗口）
   supabase

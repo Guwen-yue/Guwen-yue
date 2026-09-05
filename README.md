@@ -77,7 +77,8 @@ autoTokenizer(transform 提供的)
    sse 流式生成 （Server sent events
     这个有时候不用缓存是为了保证实时性，开来cache可能会在有问题时接受旧数据接受的内容就会出问题）
 ==========================================
-json 格式化输出 ： 利用JsonOutputParser 输出解析器
+json 格式化输出 ： 利用JsonOutputParser 输出解析器（这个利用正则提取里面的内容）
+                利用bindtool 告诉大模型按照z.schema 返回数据 ，而不是真调函数
 ==========================================
  attu（milvus可视化窗口）
   supabase

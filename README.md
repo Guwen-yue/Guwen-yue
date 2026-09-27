@@ -84,7 +84,8 @@ websocket : 直连通道
 ===========================================agent
 langgraph
 agentic rag
-
+langsmith
+deepagents
 
 =============================================
  attu（milvus可视化窗口）

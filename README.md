@@ -40,6 +40,14 @@
 ## 📫 联系方式
 - 邮箱：2606633761@qq.com
 
+boss, 你好。 我是一位AI Native开发者，codex/claude codex 重度用户，熟悉sdd 开发。
+具备react+ts, nextjs/nestjs 全栈开发能力，了解python,fastapi 等后端框架。熟练
+掌握docker, git, 项目部署。 擅长基于langchain/langgraph/langsmith/deepagents 
+全栈Agent开发， 有多个ai coding 的项目经验，Agentic RAG 优化经验。 对贵公司的岗位挺感兴趣，能安排面试不？
+期待加入团队，开发让用户尖叫的AI Agent 产品。
+
+
+
 ---
 ===========================
 docker
@@ -88,6 +96,7 @@ langsmith
 deepagents
 runablesequence
 openevals
+
 =============================================
  attu（milvus可视化窗口）
   supabase

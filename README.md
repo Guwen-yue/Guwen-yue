@@ -86,6 +86,7 @@ langgraph
 agentic rag
 langsmith
 deepagents
+runablesequence
 
 =============================================
  attu（milvus可视化窗口）

@@ -87,7 +87,7 @@ agentic rag
 langsmith
 deepagents
 runablesequence
-
+openevals
 =============================================
  attu（milvus可视化窗口）
   supabase

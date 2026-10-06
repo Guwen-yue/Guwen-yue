@@ -96,7 +96,7 @@ langsmith
 deepagents
 runablesequence
 openevals
-
+quickjs WASM 
 =============================================
  attu（milvus可视化窗口）
   supabase

@@ -97,7 +97,7 @@ deepagents
 runablesequence
 openevals
 quickjs WASM
-dedent : 会保留源码里面的空格字符 适合写系统提示词
+dedent : 自动识别非空行里面的共同的前置空格 适合写系统提示词
 =============================================
  attu（milvus可视化窗口）
   supabase

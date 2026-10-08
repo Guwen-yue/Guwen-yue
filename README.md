@@ -106,3 +106,4 @@ mcp Events
   onnx runtime  k8s oss tavily orm drizzle proxy
 elasticsearch
 p5.js 手绘组件库
+bm25

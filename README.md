@@ -99,6 +99,7 @@ openevals
 quickjs WASM
 dedent : 自动识别非空行里面的共同的前置空格 适合写系统提示词
 mcp Events
+Neo 4j 图数据库 
 =============================================
  attu（milvus可视化窗口）
   supabase

@@ -101,7 +101,8 @@ dedent : 自动识别非空行里面的共同的前置空格 适合写系统提�
 mcp Events
 Neo 4j 图数据库 
 =============================================
- attu（milvus可视化窗口）
+rxjs.js
+attu（milvus可视化窗口）
   supabase
 待解决的问题
   onnx runtime  k8s oss tavily orm drizzle proxy

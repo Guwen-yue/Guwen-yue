@@ -89,6 +89,7 @@ json 格式化输出 ： 利用JsonOutputParser 输出解析器（这个利用�
                 利用bindtool 告诉大模型按照z.schema 返回数据 ，而不是真调函数
 ==========================================
 websocket : 直连通道
+事物
 ===========================================agent
 langgraph
 agentic rag

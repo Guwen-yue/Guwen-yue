@@ -112,3 +112,8 @@ attu（milvus可视化窗口）
 elasticsearch
 p5.js 手绘组件库
 bm25
+mem0
+==================== 存储方案
+oss
+MinIO 
+

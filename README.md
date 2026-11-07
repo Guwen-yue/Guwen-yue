@@ -117,3 +117,7 @@ mem0
 oss
 MinIO 
 
+=====================nest 
+inject注入： 被这个装饰了就可以导出给其他的 service模块使用
+controller 这个模块就是负责路由以及指下要执行什么函数（这个函数真正具体的功能一般是在service里面进行执行的）
+module 是
